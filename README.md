@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @POYO1
+- 👋 Hi, I’m poyo
 - 👀 I’m interested in skating
 - 🌱 I’m currently learning how to code
 
